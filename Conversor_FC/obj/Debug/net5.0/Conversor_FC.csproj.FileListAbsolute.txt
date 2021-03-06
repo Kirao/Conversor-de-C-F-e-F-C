@@ -14,3 +14,19 @@ C:\Users\guihe\Desktop\Testes de programas c#\Conversor_FC\obj\Debug\net5.0\Conv
 C:\Users\guihe\Desktop\Testes de programas c#\Conversor_FC\obj\Debug\net5.0\ref\Conversor_FC.dll
 C:\Users\guihe\Desktop\Testes de programas c#\Conversor_FC\obj\Debug\net5.0\Conversor_FC.pdb
 C:\Users\guihe\Desktop\Testes de programas c#\Conversor_FC\obj\Debug\net5.0\Conversor_FC.genruntimeconfig.cache
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.exe
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.deps.json
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.runtimeconfig.json
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.runtimeconfig.dev.json
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.dll
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\ref\Conversor_FC.dll
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\bin\Debug\net5.0\Conversor_FC.pdb
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.csprojAssemblyReference.cache
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.AssemblyInfoInputs.cache
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.AssemblyInfo.cs
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.csproj.CoreCompileInputs.cache
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.dll
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\ref\Conversor_FC.dll
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.pdb
+C:\Users\guihe\Desktop\Meu git\Conversor-de-C-F-e-F-C\Conversor_FC\obj\Debug\net5.0\Conversor_FC.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guihe\\Desktop\\Testes de programas c#\\Conversor_FC\\Conversor_FC.csproj": {}
+    "C:\\Users\\guihe\\Desktop\\Meu git\\Conversor-de-C-F-e-F-C\\Conversor_FC\\Conversor_FC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guihe\\Desktop\\Testes de programas c#\\Conversor_FC\\Conversor_FC.csproj": {
+    "C:\\Users\\guihe\\Desktop\\Meu git\\Conversor-de-C-F-e-F-C\\Conversor_FC\\Conversor_FC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guihe\\Desktop\\Testes de programas c#\\Conversor_FC\\Conversor_FC.csproj",
+        "projectUniqueName": "C:\\Users\\guihe\\Desktop\\Meu git\\Conversor-de-C-F-e-F-C\\Conversor_FC\\Conversor_FC.csproj",
         "projectName": "Conversor_FC",
-        "projectPath": "C:\\Users\\guihe\\Desktop\\Testes de programas c#\\Conversor_FC\\Conversor_FC.csproj",
+        "projectPath": "C:\\Users\\guihe\\Desktop\\Meu git\\Conversor-de-C-F-e-F-C\\Conversor_FC\\Conversor_FC.csproj",
         "packagesPath": "C:\\Users\\guihe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guihe\\Desktop\\Testes de programas c#\\Conversor_FC\\obj\\",
+        "outputPath": "C:\\Users\\guihe\\Desktop\\Meu git\\Conversor-de-C-F-e-F-C\\Conversor_FC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

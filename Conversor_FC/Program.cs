@@ -24,7 +24,7 @@ namespace Conversor_FC
 
             }
 
-            else
+            else if (escolha == 2)
             {
                 Console.Write("Insira o valor de °F para tranformar em °C: ");
                 fairim = double.Parse(Console.ReadLine());
@@ -32,6 +32,11 @@ namespace Conversor_FC
                 convFC = (fairim -32 ) * 5/9;
 
                 Console.WriteLine($"{fairim}°F é = {convFC.ToString("F2")}°C a ");
+            }
+
+            else
+            {
+                Console.WriteLine("Nenhum dos modos escolhido!");
             }
 
             
