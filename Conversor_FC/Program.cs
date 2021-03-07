@@ -17,7 +17,7 @@ namespace Conversor_FC
 
             escolha = int.Parse(Console.ReadLine());
             
-             //Se a escolha dor 1 executa essa area de comando
+             //Se a escolha for 1, executa essa area de comando
             if (escolha == 1)
             {
                 Console.Write("Insira o valor de °C para tranformar em °F: ");       // Msg para inserir qual Valor de Graus Celsius que deseja tranformar em Grau Fahrenheit
@@ -28,7 +28,7 @@ namespace Conversor_FC
                 Console.WriteLine($"{celsim}°C é = {convCF.ToString("F2")}°F ");     //Motra o valor escolhido em  °C e o resultado da conversao em  °F
 
             }
-            // Se o resultado for 2 executa essa area de comando
+            // Se o resultado for 2, executa essa area de comando
             else if (escolha == 2)
             {
                 Console.Write("Insira o valor de °F para tranformar em °C: ");       // Msg para inserir qual Valor de Graus Fahrenheint que deseja tranformar em Grau Celsius
