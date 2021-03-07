@@ -34,7 +34,7 @@ namespace Conversor_FC
                 Console.Write("Insira o valor de °F para tranformar em °C: ");       // Msg para inserir qual Valor de Graus Fahrenheint que deseja tranformar em Grau Celsius
                 fairim = double.Parse(Console.ReadLine());                           // Vinculando o valor escolhido á variavel
 
-                convFC = (fairim -32 ) * 5/9;                                        //Formula de conversao de  °C  para  °F 
+                convFC = (fairim -32 ) * 5/9;                                        //Formula de conversao de  °F  para  °C
 
                 Console.WriteLine($"{fairim}°F é = {convFC.ToString("F2")}°C ");   //Motra o valor escolhido em  °F e o resultado da conversao em  °C
             }
